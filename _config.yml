@@ -16,8 +16,8 @@
 theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Wonhee Son"
+description: "Preperation is always fun."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://worhee.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
